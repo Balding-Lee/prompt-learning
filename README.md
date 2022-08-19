@@ -1,12 +1,12 @@
 # prompt-learning
 
 ## Requires
-python >= 3.7.0
-numpy >= 1.21.5
-pandas >= 1.3.4
-pytorch >= 1.9.0
-transformers >= 4.15.0
-pyprind == 2.11.3 （可以不要，如果不需要的话将相关的两行代码删除就行）
+- python >= 3.7.0
+- numpy >= 1.21.5
+- pandas >= 1.3.4
+- pytorch >= 1.9.0
+- transformers >= 4.15.0
+- pyprind == 2.11.3 （可以不要，如果不需要的话将相关的两行代码删除就行）
 
 ## Usage
 ### bert-base-uncased
